@@ -6,7 +6,6 @@ public class Variables {
         boolean disponible = true; //true/false
         char genero;
         genero = 'M'; //M-Masculino / F-Femenino
-
         //Acceder a las variables
         System.out.println(edad);
         //Modificamos el valor
