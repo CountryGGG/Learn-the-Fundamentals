@@ -1,3 +1,5 @@
+package Retos;
+
 public class ReservadeHoteles {
     public static void main(String[] args) {
         final var NOMBRE_DE_CLIENTE = "TYRON";
